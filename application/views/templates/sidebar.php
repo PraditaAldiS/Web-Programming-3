@@ -5,12 +5,10 @@
 justify-content-center" href="index.html">
  <div class="sidebar-brand-icon rotate-n-15">
  <i class="fas fa-book"></i>
-
  </div>
  <div class="sidebar-brand-text mx-3">Pustaka 
 Booking</div>
  </a>
-
  <!-- Divider -->
  <hr class="sidebar-divider">
  
@@ -21,10 +19,8 @@ Booking</div>
  Master Data
  </div>
  <!-- Nav Item - Dashboard -->
-
  <li class="nav-item active">
  <!-- Nav Item - Dashboard -->
-
  <li class="nav-item">
  <a class="nav-link pb-0" href="<?=
 base_url('buku'); ?>">
@@ -38,15 +34,12 @@ base_url('user/anggota'); ?>">
  <span>Data Anggota</span></a>
  </li>
  </li>
-
  <!-- Divider -->
  <hr class="sidebar-divider mt-3">
-
  <!-- Sidebar Toggler (Sidebar) -->
  <div class="text-center d-none d-md-inline">
  <button class="rounded-circle border-0"
 id="sidebarToggle"></button>
  </div>
- 
  </ul>
  <!-- End of Sidebar -- >
